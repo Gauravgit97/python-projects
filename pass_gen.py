@@ -3,6 +3,10 @@ import random
 
 
 def gen_pass(pas_len=10):
+    
+    """Here is the 'string' method.
+    Which provide us the symble which we need to create a password..."""
+
     s1 = string.ascii_uppercase
     s2 = string.ascii_lowercase
     s3 = string.digits
