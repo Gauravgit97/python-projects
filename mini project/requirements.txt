@@ -1,0 +1,14 @@
+requests
+win10toast
+cv2
+json
+smtplib 
+pytesseract 
+PIL
+pyautogui
+tkinter
+speech_recognition
+pyttsx3
+pyaudio
+pyshorteners
+bs4
