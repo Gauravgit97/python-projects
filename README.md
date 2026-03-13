@@ -59,7 +59,7 @@ Simple webcam viewer using OpenCV.
 
 Fetches real-time weather information for any city using an API.
 
-### 🔹 12. Pdf Manupulation (`pdf_manupulation.py`)
+### 🔹 13. Pdf Manupulation (`pdf_manupulation.py`)
 
 Helps us to Manupulate, extract text,image etc from a pdf file.
 
