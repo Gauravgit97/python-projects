@@ -63,6 +63,11 @@ Fetches real-time weather information for any city using an API.
 
 Helps us to Manupulate, extract text,image etc from a pdf file.
 
+
+### 🔹 13. Morse code (`pdf_manupulation.py`)
+
+A program to convert normal text to morse code and morese code to normal code.
+
 ## 🚀 Tech Stack
 
 -   Python 3.10
